@@ -69,8 +69,6 @@ I turn ideas into working products: from architecture and APIs to UI and AI-powe
 ---
 
 ## 📬 Contacts
-- 📧 Email: **andriinepodymkawork@gmail.com**  
-- 💬 Telegram: [@zxc01001110](https://t.me/zxc01001110)  
 - 💼 Upwork: [Profile](https://www.upwork.com/freelancers/pythonaitradingexpert?mp_source=share)  
 
 ---
