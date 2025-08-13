@@ -1,4 +1,6 @@
 <!-- Banner -->
+![Banner](./banner.svg)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
   <img alt="Andrii Nepodymka — Python | Data | Full-Stack" src="assets/banner-light.png">
