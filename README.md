@@ -4,24 +4,24 @@
   <img alt="Andrii Nepodymka — Python | Data | Full-Stack" src="assets/banner-light.png">
 </picture>
 
-# 👋 Привет, я Andrii
+# 👋 Hi, I’m Andrii
 
 🚀 **Full-Stack & Backend Engineer** — Python, FastAPI, Django, React, Next.js, AI/ML, Trading Automation  
-Я превращаю идеи в работающие продукты: от архитектуры и API до UI и автоматизации с AI.  
-📍 **USA (UTC-5)** | 💼 Открыт к сотрудничеству
+I turn ideas into working products: from architecture and APIs to UI and AI-powered automation.  
+📍 **USA (UTC-5)** | 💼 Open to collaboration
 
 ---
 
-## 💡 Обо мне
-- 7+ лет опыта в разработке **web, mobile и backend** приложений
-- Экспертиза в **SaaS, Fintech, e-commerce, healthcare**
-- **AI/ML** интеграции для автоматизации и аналитики
-- **AlgoTrading**: боты, скринеры, сигналы, риск-менеджмент
-- Люблю **чистый код**, оптимизацию и понятную архитектуру
+## 💡 About Me
+- 7+ years of experience delivering **web, mobile, and backend** applications
+- Proven expertise in **SaaS, Fintech, e-commerce, and healthcare**
+- **AI/ML** integrations for automation and data insights
+- **AlgoTrading**: bots, screeners, alerts, and risk management
+- Passionate about **clean code**, optimization, and scalable architecture
 
 ---
 
-## 🛠 Стек и технологии
+## 🛠 Tech Stack
 
 **Frontend:**  
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
@@ -58,29 +58,22 @@
 
 ### **AlgoTrading Bots Platform**
 📌 Python, FastAPI, Docker, AWS, Telegram API  
-💡 12 live bots + 3 ML-модели, автоматическая торговля и алерты
+💡 12 live bots + 3 ML models for automated trading and alerts
 
 ### **On-Chain Data Screener**
 📌 Python, Pandas, Streamlit  
-💡 Анализ и фильтрация блокчейн-метрик с визуализацией
+💡 Analyzes and filters blockchain metrics with visualization
 
 ### **Full-Stack SaaS Dashboard**
 📌 Next.js, Django, AWS  
-💡 UI/UX для аналитической SaaS-платформы с интеграцией AI
+💡 UI/UX for an analytics SaaS platform with AI integration
 
 ---
 
-## 📊 GitHub Статистика
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andrey1224&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey1224&layout=compact&theme=tokyonight)
-
----
-
-## 📬 Контакты
-- 📧 Email: your.email@example.com  
-- 💬 Telegram: [@username](https://t.me/username)  
-- 💼 Upwork: [Profile](https://www.upwork.com/freelancers/~yourid)  
-- 🌐 Website/Portfolio: [yourdomain.com](https://yourdomain.com)
+## 📬 Contacts
+- 📧 Email: **andriinepodymkawork@gmail.com**  
+- 💬 Telegram: [@zxc01001110](https://t.me/zxc01001110)  
+- 💼 Upwork: [Profile](https://www.upwork.com/freelancers/pythonaitradingexpert?mp_source=share)  
 
 ---
 💡 _"Clean code, clear communication, and reliable delivery timelines — that’s how I work."_
