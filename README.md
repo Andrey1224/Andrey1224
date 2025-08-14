@@ -1,9 +1,9 @@
 <!-- Banner -->
-![Banner](./banner1.svg)
+![Banner](./banner3.svg)
 
 # 👋 Hi, I’m Andrii
 
-🚀 **Full-Stack & Backend Engineer** — Python, FastAPI, Django, React, Next.js, AI/ML, Trading Automation  
+🚀 **Senior Full-Stack & Trading Algorithms** — Python, FastAPI, Django, React, Next.js, AI/ML, Trading Automation  
 I turn ideas into working products: from architecture and APIs to UI and AI-powered automation.  
 📍 **USA (UTC-5)** | 💼 Open to collaboration
 
