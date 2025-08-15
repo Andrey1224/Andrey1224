@@ -3,7 +3,7 @@
 
 # 👋 Hi, I’m Andrii
 
-🚀 **Senior Full-Stack & Trading Algorithms** — Python, FastAPI, Django, React, Next.js, AI/ML, Trading Automation  
+🚀 **Full-Stack & Trading Algorithms** — Python, FastAPI, Django, React, Next.js, AI/ML, Trading Automation  
 I turn ideas into working products: from architecture and APIs to UI and AI-powered automation.  
 📍 **USA (UTC-5)** | 💼 Open to collaboration
 
