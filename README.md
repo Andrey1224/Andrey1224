@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](./banner3.svg)
+![Banner](./banner1.svg)
 
 # 👋 Hi, I’m Andrii
 
